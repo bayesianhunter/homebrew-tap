@@ -1,6 +1,6 @@
 cask "halo" do
-  version "0.8.0"
-  sha256 "fcf868f5ab58d8a5a4f786d693da0fca2efb2b0afa02d0c654a2e32fd97a4843"
+  version "0.8.2"
+  sha256 "1b7f8374ddc52286575993adfdb726f1156301afa069892c2daec0ddb2972c09"
 
   url "https://github.com/bayesianhunter/halo/releases/download/v#{version}/Halo-#{version}.zip"
   name "Halo"
